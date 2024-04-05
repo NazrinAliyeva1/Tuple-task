@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\bin\Debug\net6.0\Tuple-Task.exe
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\bin\Debug\net6.0\Tuple-Task.deps.json
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\bin\Debug\net6.0\Tuple-Task.runtimeconfig.json
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\bin\Debug\net6.0\Tuple-Task.dll
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\bin\Debug\net6.0\Tuple-Task.pdb
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\Tuple-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\Tuple-Task.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\Tuple-Task.AssemblyInfo.cs
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\Tuple-Task.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\Tuple-Task.dll
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\refint\Tuple-Task.dll
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\Tuple-Task.pdb
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\Tuple-Task.genruntimeconfig.cache
+C:\Users\99455\source\repos\Tuple-Task\Tuple-Task\obj\Debug\net6.0\ref\Tuple-Task.dll
